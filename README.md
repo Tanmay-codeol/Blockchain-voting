@@ -1,1 +1,1 @@
-This is a blockchain based voting project
+# This is a blockchain based voting project
